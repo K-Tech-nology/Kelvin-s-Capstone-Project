@@ -1,3 +1,4 @@
 # Capstone_Project
-The files that are stored in this folder are some of the mini project that I did by implementing some of the Machine Learning Techniques, such as Multiple Linear Regression, KNN, etc.
-This project is done to showcase the level of my competencies in the data science fields. Please feel free to give me some comments on how I can improve myself.
+The files that are stored in this section are the codes that I wrote for learning purposes and implementing some of the analytical/Machine Learning Techniques in several cases.
+
+The Programming Languages are in both R & Python, and feel free to add comments or feedbacks on the existing code for improvements !
